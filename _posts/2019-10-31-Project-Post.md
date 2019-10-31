@@ -15,13 +15,11 @@ I also scraped information from the Beer Institute about general levels of beer 
 The goal of this project was to test out my web scraping skills and to see if there were any interesting trends that I could identify around the craft brewing inudstry in the US and beer drinking habits in the US.
 
 
-
 Difficulties
 
 In the course of looking for data for this project I discovered that brewing and drinking statistics can be difficult to find, particularly in a format that is condusive to straight forward web scraping.  
 Some examples include entire pages that are one class with the statisics all bunched together in one long string, or as a table that doens't separate individual cells in the html.  
 Another problem I found included finding well organized information that wasn't able to be scraped due to the permissions of the site it was on.
-
 
 
 The Process
@@ -54,6 +52,6 @@ I also looked at the top 5 states in terms of beer consumption to see if craft b
 
 I also looked at the bottom 5 ranked states in terms of consumption. These had levels ofcraft beer production that seemed to match their lower levels of consumption. The exception here is the state of New York which had some of the highest levels of craft beer production in the US.
 
-![Image](https://github.com/dramsay801/dramsay801.github.io/blob/master/images/Bottom_5_consumption.PNG)
+![Image](https://github.com/dramsay801/dramsay801.github.io/blob/master/images/Bottom_5_consumption.JPG)
 
 
