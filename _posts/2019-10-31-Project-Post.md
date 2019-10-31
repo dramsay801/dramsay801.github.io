@@ -29,7 +29,7 @@ The Process
 The way the statistics were presented on the  Brewer's Assocation website presented an interesting siutaion. 
 All of the stats were in cells for each state, which can be seen below:
 
-![Image](https://github.com/dramsay801/dramsay801.github.io/blob/master/images/Cellpic.PNG)
+![Image](https://github.com/dramsay801/dramsay801.github.io/blob/master/images/Capture.PNG)
 
 
 I initially thought to grab all of the statistics for each state by going thorugh a loop and pulling out the values from each cell.
