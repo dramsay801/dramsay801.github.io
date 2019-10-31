@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "First Blog Post"
+title: First Blog Post
 date: 2019-10-31
 ---
 
