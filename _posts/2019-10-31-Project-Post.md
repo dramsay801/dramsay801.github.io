@@ -25,7 +25,7 @@ Another problem I found included finding well organized information that wasn't 
 The Process
 
 The way the statistics were presented on the  Brewer's Assocation website presented an interesting siutaion. 
-All of the stats were in cells for each state.
+All of the stats were in cells for each state. An exmaple of how the information was laid out can be seen below:
 
 ![State Cell]({{https://github.com/dramsay801/dramsay801.github.io/blob/master}}/images/Cellpic.PNG)
 
