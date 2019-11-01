@@ -8,7 +8,7 @@ The Project
 
 I was recently working on a web scraping porjecto to find statistics on craft brewing across the US. 
 
-TO do this I found information from the  Brewer's Asoocaition website.  I was looking for data broken up by state to compare factors such as total production, economic impact on the state, number of breweries as well as prouction and number of breweries per capita.
+To do this I found information from the  Brewer's Asoocaition website.  I was looking for data broken up by state to compare factors such as total production, economic impact on the state, number of breweries as well as prouction and number of breweries per capita.
 
 I also scraped information from the Beer Institute about general levels of beer consumption per capita per state.  I wanted to compare these numbers to the statistics about craft breweries.
 
@@ -47,11 +47,11 @@ The total economic impact of the craft brewing industry in 2018 was about $79 bi
 
 I also looked at the top 5 states in terms of beer consumption to see if craft beer production was also high. Surprisingly this was only true in Wisconsin, the 5th ranked state.
 
-![Top 5 States](https://github.com/dramsay801/dramsay801.github.io/blob/master/images/Top_5_consumption.PNG)
+![Top 5 States]({{https://github.com/dramsay801/dramsay801.github.io/blob/master}}/images/Top_5_consumption.PNG)
 
 
 I also looked at the bottom 5 ranked states in terms of consumption. These had levels ofcraft beer production that seemed to match their lower levels of consumption. The exception here is the state of New York which had some of the highest levels of craft beer production in the US.
 
-![Bottom 5 States](https://github.com/dramsay801/dramsay801.github.io/blob/master/images/Bottom_5_consumption.PNG)
+![Bottom 5 States]({{https://github.com/dramsay801/dramsay801.github.io/blob/master}}/images/Bottom_5_consumption.PNG)
 
 
