@@ -27,7 +27,7 @@ The Process
 The way the statistics were presented on the  Brewer's Assocation website presented an interesting siutaion. 
 All of the stats were in cells for each state.
 
-![State Cell](https://github.com/dramsay801/dramsay801.github.io/blob/master/images/Cellpic.PNG)
+![State Cell]({{https://github.com/dramsay801/dramsay801.github.io/blob/master}}/images/Cellpic.PNG)
 
 I initially thought to grab all of the statistics for each state by going thorugh a loop and pulling out the values from each cell.
 However I found that I could grab all of one type of value from each cell on the page. So I instead scraped each statistic I was looking for from all 50 State and DC one statistic at a time.
