@@ -52,6 +52,6 @@ I also looked at the top 5 states in terms of beer consumption to see if craft b
 
 I also looked at the bottom 5 ranked states in terms of consumption. These had levels ofcraft beer production that seemed to match their lower levels of consumption. The exception here is the state of New York which had some of the highest levels of craft beer production in the US.
 
-![Bottom 5 States]({{https://github.com/dramsay801/dramsay801.github.io/blob/master}}/images/Bottom_5_consumption.PNG)
+![Bottom 5 States](https://github.com/dramsay801/dramsay801.github.io/blob/master/images/Bottom_5_consumption.PNG)
 
 
